@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import styles from "../api/styles.css";
+import "../api/styles.css";
 
 const Api = () => {
   const [data, setData] = useState({ results: [] });
