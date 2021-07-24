@@ -1,4 +1,4 @@
-Follow the steps to run this Victoria App
+Follow the steps to run this Victorian App
 
 1)git clone https://github.com/Yasir1986/victoria
 
