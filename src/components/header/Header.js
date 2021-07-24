@@ -1,7 +1,7 @@
 function HeaderText() {
   return (
     <div>
-      <h1>Victoria Plumbing</h1>
+      <h1>Victorian Plumbing</h1>
     </div>
   );
 }
