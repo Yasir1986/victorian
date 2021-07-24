@@ -1,10 +1,12 @@
 .container {
-    height: 235;
-    width: 50%;
-    margin: auto;
+  height: 235;
+  width: 50%;
+  margin: auto;
 }
 .box {
-    color: black;
-    border: 2px dotted black;
-    background-color: aquamarine;
+  color: black;
+  font-weight: 600;
+  font-size: 16px;
+  border: 2px dotted black;
+  background-color: aquamarine;
 }

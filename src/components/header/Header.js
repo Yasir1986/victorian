@@ -1,5 +1,3 @@
-
-
 function HeaderText() {
   return (
     <div>
