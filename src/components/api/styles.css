@@ -1,6 +1,10 @@
 .container {
-    background-color: aquamarine;
-    height: 525px;
-    width: 90%;
+    height: 235;
+    width: 50%;
     margin: auto;
+}
+.box {
+    color: black;
+    border: 2px dotted black;
+    background-color: aquamarine;
 }
